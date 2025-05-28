@@ -111,9 +111,8 @@ The GUI is built using tkinter, Python’s standard library for graphical interf
 
 ## 8. Demo and Publication
 
-**Demo**: A video demonstration has been recorded, showcasing the application’s real-time highlighting and syntax validation. The video is publicly accessible at [insert public URL here, e.g., YouTube link].
+**Demo**: A video demonstration has been recorded, showcasing the application’s real-time highlighting and syntax validation. The video is publicly accessible at https://youtu.be/_CdxkQzZqRs?si=C3k878xpW2DIzb-d 
 
-**Article**: This report serves as the article, detailing the implementation. It is published at [insert public URL here, e.g., GitHub Pages or personal blog].
 
 ## Conclusion
 The project successfully implements a real-time syntax highlighter with a GUI, adhering to the specified requirements. The use of Python, a state-driven lexer, top-down parsing, and tkinter-based GUI ensures a robust and user-friendly solution. The highlighting scheme effectively distinguishes five token types, and the real-time feedback enhances usability.

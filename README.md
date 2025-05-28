@@ -109,7 +109,7 @@ The GUI is built using tkinter, Python’s standard library for graphical interf
 
 **Design**: The GUI is minimal, with a single text area (20x60) and padding for readability. Colors are chosen for clear visual distinction between token types.
 
-## 8. Demo and Publication
+## 7. Demo
 
 **Demo**: A video demonstration has been recorded, showcasing the application’s real-time highlighting and syntax validation. The video is publicly accessible at https://youtu.be/_CdxkQzZqRs?si=C3k878xpW2DIzb-d 
 
